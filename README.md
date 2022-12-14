@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darubo12
+- 👋 Hi, I’m Darubo12
 - 👀 I’m interested in chess and vidéo games
 - 🌱 I’m currently learning php code
 - 💞️ I’m looking to collaborate on ...
